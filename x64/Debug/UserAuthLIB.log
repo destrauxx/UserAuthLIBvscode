@@ -1,0 +1,7 @@
+﻿  main.cpp
+  user.cpp
+C:\codedata\с++\UserAuthLIB\user.cpp(301,10): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  Создание кода...
+user.obj : error LNK2001: неразрешенный внешний символ "public: virtual void __cdecl UserData::display(void)const " (?display@UserData@@UEBAXXZ).
+user.obj : error LNK2001: неразрешенный внешний символ "public: virtual void __cdecl UserPublication::display(void)const " (?display@UserPublication@@UEBAXXZ).
+C:\codedata\с++\UserAuthLIB\x64\Debug\UserAuthLIB.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
